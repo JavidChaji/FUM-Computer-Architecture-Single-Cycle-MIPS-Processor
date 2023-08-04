@@ -1,0 +1,260 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1580268439
+VEF5ZYSGL;0P6f=WA;K6OF0
+04 11 4 work SingleCycle fast 0
+=1-8c16459531ab-5e30fb97-320-4480
+o-quiet -auto_acc_if_foreign -work SingleCycle
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vadder
+!s110 1580300802
+!i10b 1
+!s100 ^j_8lQUF@L1Mg;`9TDc3H3
+I34PP;3m8E:ffN`TclGS`D2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/ADMIN/Desktop/Single Cycle New/Modelsim
+w1548527068
+8C:/Users/ADMIN/Desktop/Single Cycle New/adder.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/adder.v
+L0 1
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1580300802.000000
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/adder.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/adder.v|
+!i113 0
+Z6 o-work SingleCycle -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vALU
+Z7 !s110 1580300803
+!i10b 1
+!s100 T9FXJ@4lmz9DhIF7L`^Ui2
+IYB]@DRYIWHP_ml6@0:d7;2
+R2
+R3
+w1580201671
+8C:/Users/ADMIN/Desktop/Single Cycle New/ALU.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/ALU.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/ALU.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/ALU.v|
+!i113 0
+R6
+R1
+n@a@l@u
+vALUControl
+R7
+!i10b 1
+!s100 a`PRaXMS5`I[;DeQUf5ZU0
+IHS<h1SAi<?RH_B`N48deW0
+R2
+R3
+w1579931482
+8C:/Users/ADMIN/Desktop/Single Cycle New/ALUControl.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/ALUControl.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z8 !s108 1580300803.000000
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/ALUControl.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/ALUControl.v|
+!i113 0
+R6
+R1
+n@a@l@u@control
+vcontrolUnit
+R7
+!i10b 1
+!s100 _ndkRLU>jGB43nj=E93EU3
+IHO<PTn[BfjRLbHaKolQEF0
+R2
+R3
+w1579945415
+8C:/Users/ADMIN/Desktop/Single Cycle New/ControlUnit.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/ControlUnit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/ControlUnit.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/ControlUnit.v|
+!i113 0
+R6
+R1
+ncontrol@unit
+vDMemBank
+R7
+!i10b 1
+!s100 oh>77@Z]h1XoBFae6eViz1
+IRX@fAaQOP[4MZYQ4HbIec1
+R2
+R3
+w1580229678
+8C:/Users/ADMIN/Desktop/Single Cycle New/DataMemory.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/DataMemory.v
+L0 2
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/DataMemory.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/DataMemory.v|
+!i113 0
+R6
+R1
+n@d@mem@bank
+vIMemBank
+R7
+!i10b 1
+!s100 z9AjC;eG1O=@;91:E;LT]1
+I_97d>5=Hg_@l5Y>NSBJLT1
+R2
+R3
+w1580270657
+8C:/Users/ADMIN/Desktop/Single Cycle New/InstMemory.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/InstMemory.v
+L0 2
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/InstMemory.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/InstMemory.v|
+!i113 0
+R6
+R1
+n@i@mem@bank
+vmux2_1N16
+R7
+!i10b 1
+!s100 D<X8RMA^QPREF8mkS[5Pe2
+IV7lbYoF>UVAZ_O]?YJYD;1
+R2
+R3
+w1580221328
+8C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N16.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N16.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N16.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N16.v|
+!i113 0
+R6
+R1
+nmux2_1@n16
+vmux2_1N3
+R7
+!i10b 1
+!s100 9CX5Q>FG8^R]@TMic``AU1
+If<d=oH<8k9kXfb_g:_m;[3
+R2
+R3
+w1548529242
+8C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N3.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N3.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N3.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N3.v|
+!i113 0
+R6
+R1
+nmux2_1@n3
+vRegFile
+R7
+!i10b 1
+!s100 FC>RF9Q_`EoL1U16az1M>3
+I=ST3<<j]a7JfXI5ZI9ND22
+R2
+R3
+w1580201878
+8C:/Users/ADMIN/Desktop/Single Cycle New/RegFile.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/RegFile.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/RegFile.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/RegFile.v|
+!i113 0
+R6
+R1
+n@reg@file
+vsign_extend
+R7
+!i10b 1
+!s100 2fN_ni^S]Of>[j;JMiKhT3
+I2[c`LRWJJCU7iaZ1>GE`A1
+R2
+R3
+w1580237638
+8C:/Users/ADMIN/Desktop/Single Cycle New/sign_extend.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/sign_extend.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/sign_extend.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/sign_extend.v|
+!i113 0
+R6
+R1
+vSingleCycle
+R7
+!i10b 1
+!s100 himE0GDRY61DYnWWH^KP40
+I:G51BQF8^mF@GGeJeR0[Q2
+R2
+R3
+w1580267585
+8C:/Users/ADMIN/Desktop/Single Cycle New/SingleCycle.v
+FC:/Users/ADMIN/Desktop/Single Cycle New/SingleCycle.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Single Cycle New/SingleCycle.v|
+!s90 -reportprogress|300|-work|SingleCycle|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Single Cycle New/SingleCycle.v|
+!i113 0
+R6
+R1
+n@single@cycle

@@ -1,0 +1,78 @@
+{C:/Users/ADMIN/Desktop/Single Cycle New/InstMemory.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/InstMemory.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module IMemBank
+
+Top level modules:
+	IMemBank
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/DataMemory.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/DataMemory.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DMemBank
+
+Top level modules:
+	DMemBank
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/ALUControl.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/ALUControl.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/sign_extend.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/sign_extend.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/adder.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/adder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N16.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N16.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux2_1N16
+
+Top level modules:
+	mux2_1N16
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N3.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/mux2_1N3.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux2_1N3
+
+Top level modules:
+	mux2_1N3
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/ControlUnit.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/ControlUnit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module controlUnit
+
+Top level modules:
+	controlUnit
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/SingleCycle.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/SingleCycle.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module SingleCycle
+
+Top level modules:
+	SingleCycle
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/RegFile.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/RegFile.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {C:/Users/ADMIN/Desktop/Single Cycle New/ALU.v} {1 {vlog -work SingleCycle -vopt -stats=none {C:/Users/ADMIN/Desktop/Single Cycle New/ALU.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
