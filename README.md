@@ -1,3 +1,3 @@
 # MIPS-single-cycle-verilog
 
-Ferdowsi University of Mashhad Computer-Architecture-Single-Cycle-MIPS-Processor
+Ferdowsi University of Mashhad Computer Architecture Single Cycle MIPS Processor
