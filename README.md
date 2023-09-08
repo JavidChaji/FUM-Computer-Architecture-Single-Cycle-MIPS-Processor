@@ -31,9 +31,9 @@ Ferdowsi University of Mashhad Computer Architecture Single Cycle MIPS Processor
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computer-Architecture-Single-Cycle-MIPS-Processor.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Single-Cycle-MIPS-Processor/stargazers
 
 
 <!-- Issues -->
