@@ -47,7 +47,7 @@ Ferdowsi University of Mashhad Computer Architecture Single Cycle MIPS Processor
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screen Shot][Product-Screenshot]][Product-Screenshot]
+[![Product Screen Shot][Product-Screenshot]][Product-URL]
 
 
 
@@ -172,6 +172,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Linkedin -->
-[Product-Screenshot]: Images/Screenshot.png
-
+[Product-Screenshot]: Images/MIPS_Architecture_(Single-cycle).png
 [Product-URL]: .
