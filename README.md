@@ -125,6 +125,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Single-Cycle-MIPS-Processor/graphs/contributors
 
+
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computer-Architecture-Single-Cycle-MIPS-Processor.svg?style=for-the-badge
 
